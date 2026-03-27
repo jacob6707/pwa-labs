@@ -1,6 +1,6 @@
 <?php
-$naslov = "PHP Vjezba 1"
-$autor = "Jakov Robić"
+$naslov = "PHP Vjezba 1";
+$autor = "Jakov Robić";
 
 echo "<h1>$naslov</h1>";
 echo "<p>Ovu stranicu izradio je <strong>$autor</strong>.</p>";
